@@ -1,0 +1,12 @@
+1. Necesita tener putty instalado - instale no sea flojo -> https://www.putty.org/
+2. vaya al archivo conectar.bat y modifique los valores USER y IP PASSWORD ademas por sus credenciales y las IP 
+   de su servidor que desee actualizar
+3. En el archivo comandos.sh en las lineas server_name=Ponga el nombre del servidor que desee actualizar Ej. AlertSrv
+   en la linea version=ponga el nombre de la version del servidor Ejemplo Kusi-0.19
+
+4. Para actualizar el servidor solo ejecute el ejecutable conectar.bat  y listo mas facil no puede ser 
+
+Blessings 
+Denys
+
+
